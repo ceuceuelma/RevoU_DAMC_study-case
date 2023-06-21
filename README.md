@@ -12,22 +12,22 @@ The projects that are uploaded here are done.
 
 ## About Dataset: Games Sales.xlsx
   ### Name
-  the name of the game
+  name of the game
   
   ### Sales
-  total sales/purchases of the game
+  total sales of the game (in millions)
   
   ### Series
-  the series of the game (if any)
+  series of the game (if any)
   
   ### Release	
   release date of the game
   
   ### Genre	
-  the genre of the game
+  genre of the game
   
   ### Developer	
-  the developer of the game
+  developer of the game
   
   ### Publisher
   publisher of the game
